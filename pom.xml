@@ -10,9 +10,6 @@
     <modules>
         <module>Spark</module>
         <module>Scala</module>
-        <module>ODSAdd</module>
-        <module>ES</module>
         <module>UserIdEnd</module>
-        <module>Robot</module>
     </modules>
 </project>
