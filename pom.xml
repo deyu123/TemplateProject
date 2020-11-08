@@ -11,5 +11,6 @@
         <module>Spark</module>
         <module>Scala</module>
         <module>UserIdEnd</module>
+        <module>Flink</module>
     </modules>
 </project>
